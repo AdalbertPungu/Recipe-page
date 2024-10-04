@@ -54,9 +54,9 @@ body {
   align-items: center;
   max-width: 666px;
   background-color: var(--white);
-  padding: 20px;
+  padding: 40px;
   border-radius: 10px;
-  margin: 100px;
+  margin: 105px;
 }
 
 div .recipe__image {
@@ -75,7 +75,7 @@ div .recipe__image {
 }
 
 .recipe__description {
-  font-size: 1rem;
+  font-size: 14px;
   font-weight: var(--Weight-400);
   color: var(--stone-600);
   margin: 10px 0 30px 0;
